@@ -15,15 +15,6 @@ I’m a fresh graduate with a **Bachelor's degree in Informatics Engineering** �
 <a href="https://www.mysql.com/" target="_blank"><img height=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://www.prisma.io/" target="_blank"><img height=36 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></a>
 
-## 📈 Statistics
-<div align="left">
-  <!-- <p align="left"> -->
-  <a href="https://github.com/voxxyg">
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voxxyg&show_icons=true&theme=dark&locale=en&layout=compact" alt="vox" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=voxxyg&theme=dark&currStreakNum=fe8dab" alt="GitHub Streak" />
-  </a>
-</div>
-
 ## 📫 Get in Touch:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/prayogadanuarta/)
 - Reach out via [Email](mailto:prayogadanuarta@gmail.com)
