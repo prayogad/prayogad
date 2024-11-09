@@ -19,5 +19,10 @@ I’m a fresh graduate with a **Bachelor's degree in Informatics Engineering** �
 <div align="left">
   <a href="https://github.com/prayogad">
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayogad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Prayogad's Top Language" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=prayogad&theme=dark&currStreakNum=fe8dab" alt="Prayogad's GitHub Streak" />
   </a>
 </div>
+
+## 📫 Get in Touch:
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/prayogadanuarta/)
+- Reach out via [Email](mailto:prayogadanuarta@gmail.com)
